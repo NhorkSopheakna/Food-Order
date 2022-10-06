@@ -1,0 +1,41 @@
+/*Login background starts*/
+body {
+    background: url('https://th.bing.com/th/id/R.be7c52ade6096cadcb96e2a3696df27b?rik=SmM938NET2r8FA&pid=ImgRaw&r=0') no-repeat fixed center center;
+    background-size: cover;
+    font-family: Montserrat;
+}
+
+.logo {
+    width: 213px;
+    height: 36px;
+    background: url('https://th.bing.com/th/id/R.71d844a16afb56c59c50ea03d735ef08?rik=%2fdBbPrbrvyae7A&riu=http%3a%2f%2fevergladesadventure.com%2fwp-content%2fuploads%2f2017%2f03%2fglades-logo-1.png&ehk=g8Jn9FI9iIi2MvqHzZGvLaOcMW5xSeP9faXQOiq4AsM%3d&risl=&pid=ImgRaw&r=0') no-repeat;
+    margin: 30px auto;
+}
+
+.login-block {
+    width: 320px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    border-top: 5px solid #ff656c;
+    margin: 0 auto;
+}
+
+.login-block h1 {
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+
+
+.login-block button:hover {
+    background: #ff7b81;
+}
+
+/* Login background ends*/
+  
